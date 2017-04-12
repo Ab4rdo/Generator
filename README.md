@@ -3,12 +3,11 @@ Generator of id and weight
 <p>Here is a simple program for generating records.</p>
 Every record consists of int id which is unique and random generated int weight.
 Id starts from 0.
-Weight is integer number between <10, 1000> with rounding to tens.
+Weight is integer number between [10, 1000] with rounding to tens.
 Id and weight are seperated with one space, every record is seperated by new line "\n".
 To view it properly don't use default Notepad.
 
-
-HOW TO USE
+<p>HOW TO USE</p>
 1. Run the program in your IDE
 2. Insert desired number of records in 'Number of records' field
 3. Press 'Generate' Button 
@@ -17,15 +16,11 @@ HOW TO USE
 
 Created file Goods.txt is in UTF-8 encoding
 
-Example of a Goods.txt file for 10 records:
+Example of a Goods.txt file for 5 records:
 <p>0 840</p>
 <p>1 950</p>
 <p>2 580</p>
 <p>3 830</p>
 <p>4 480</p>
-<p>5 170</p>
-<p>6 660</p>
-<p>7 950</p>
-<p>8 530</p>
-<p>9 100</p>
+
 
