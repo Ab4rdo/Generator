@@ -13,7 +13,7 @@ To view it properly don't use default Notepad.
 <li> Insert desired number of records in 'Number of records' field </li>
 <li> Press 'Generate' Button </li>
 <li> Magic happends </li>
-<li> If everything went well file Goods.txt would be created in <h6>Generator project directory</h6> </li>
+<li> If everything went well file Goods.txt would be created in Generator project directory </li>
 </ol>
 
 Created file Goods.txt is in UTF-8 encoding
