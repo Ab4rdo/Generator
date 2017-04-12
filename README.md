@@ -17,14 +17,14 @@ HOW TO USE
 Created file Goods.txt is in UTF-8 encoding
 
 Example of a Goods.txt file:
-0 840
-1 950
-2 580
-3 830
-4 480
-5 170
-6 660
-7 950
-8 530
-9 100
-10 240
+<p>0 840</p>
+<p>1 950</p>
+<p>2 580</p>
+<p>3 830</p>
+<p>4 480</p>
+<p>5 170</p>
+<p>6 660</p>
+<p>7 950</p>
+<p>8 530</p>
+<p>9 100</p>
+<p>10 240</p>
