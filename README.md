@@ -7,6 +7,7 @@ Weight is integer number between <10, 1000> with rounding to tens.
 Id and weight are seperated with one space, every record is seperated by new line "\n".
 To view it properly don't use default Notepad.
 
+
 HOW TO USE
 1. Run the program in your IDE
 2. Insert desired number of records in 'Number of records' field
