@@ -16,7 +16,7 @@ HOW TO USE
 
 Created file Goods.txt is in UTF-8 encoding
 
-Example of a Goods.txt file:
+Example of a Goods.txt file for 10 records:
 <p>0 840</p>
 <p>1 950</p>
 <p>2 580</p>
@@ -27,4 +27,4 @@ Example of a Goods.txt file:
 <p>7 950</p>
 <p>8 530</p>
 <p>9 100</p>
-<p>10 240</p>
+
