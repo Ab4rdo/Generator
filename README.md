@@ -8,11 +8,13 @@ Id and weight are seperated with one space, every record is seperated by new lin
 To view it properly don't use default Notepad.
 
 <p>HOW TO USE</p>
-1. Run the program in your IDE
-2. Insert desired number of records in 'Number of records' field
-3. Press 'Generate' Button 
-4. Magic happends
-5. If everything went well file Goods.txt would be created in Generator project directory
+<ol>
+<li> Run the program in your IDE </li>
+<li> Insert desired number of records in 'Number of records' field </li>
+<li> Press 'Generate' Button </li>
+<li> Magic happends </li>
+<li> If everything went well file Goods.txt would be created in Generator project directory </li>
+</ol>
 
 Created file Goods.txt is in UTF-8 encoding
 
